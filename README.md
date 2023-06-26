@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @ardy1444
-- 👀 I’m interested in solving solutions to problems with data science.
-- 🌱 I’m currently polishing my data science skills with a self-taught approach.
-- 💞️ I’m looking to collaborate on interesting projects which potentally can add value to my skillset and world.
-- 📫 How to reach me reach me on linkedin.
+- Hi!!
+- Welcome to my page
+- I love building tools and do analysis to create awareness andf bring our human race forward. 
+- 📫 Reach out to me on Linkedin to connect with me.
+
+- Currently, the projects I am working on focus on data governance, data democratization and power to an indivudual of their own data,
+- I feel Institutions have been given more than neccessary power which should come with transperency over use of people's data. 
 
 <!---
 ardy1444/ardy1444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
